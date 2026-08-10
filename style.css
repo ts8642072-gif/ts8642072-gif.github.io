@@ -179,3 +179,25 @@ textarea {
 .gallery img:hover {
     transform: scale(1.08);
 }
+/* Professional Navigation Bar */
+
+.navbar {
+    background-color: #08088a;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.navbar a:hover {
+    color: yellow;
+    }
