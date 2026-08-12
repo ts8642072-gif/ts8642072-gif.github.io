@@ -50,3 +50,6 @@ function goToContact() {
 function sayHello() {
     alert("Hello! Welcome to Samuel's website! 👋");
 }
+function changeColor() {
+    document.body.style.backgroundColor = "lightgreen";
+}
