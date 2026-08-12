@@ -47,3 +47,6 @@ function goToContact() {
         behavior: "smooth"
     });
 }
+function sayHello() {
+    alert("Hello! Welcome to Samuel's website! 👋");
+}
