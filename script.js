@@ -53,3 +53,9 @@ function sayHello() {
 function changeColor() {
     document.body.style.backgroundColor = "lightgreen";
 }
+function surpriseMe() {
+    document.getElementById("message").textContent =
+        "You are becoming a web developer! 🚀";
+
+    document.body.style.backgroundColor = "lightblue";
+}
