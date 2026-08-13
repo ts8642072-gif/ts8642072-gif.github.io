@@ -38,3 +38,7 @@ This project represents my progress and the skills I am building.
 ---
 
 Built with ❤️ using HTML, CSS and JavaScript.
+Welcome to my first web development portfolio project.
+## 🌐 Live Website
+
+[View My Website](https://ts8642072-gif.github.io/ts8642072-gif.github.io/)
