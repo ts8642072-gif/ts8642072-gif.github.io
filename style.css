@@ -221,3 +221,42 @@ nav a {
 nav a:hover {
   color: green;
 }
+/* Projects Section */
+
+#projects {
+    margin-top: 40px;
+}
+
+.project-card {
+    background: white;
+    padding: 25px;
+    margin-top: 20px;
+    border-radius: 20px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+
+.project-card h3 {
+    color: darkblue;
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+.project-card p {
+    font-size: 17px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+.project-card a {
+    display: inline-block;
+    background: darkblue;
+    color: white;
+    padding: 12px 20px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.project-card a:hover {
+    background: green;
+}
